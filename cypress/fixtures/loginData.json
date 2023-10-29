@@ -1,0 +1,16 @@
+[
+    {
+        "name": "happy",   
+        "login" : "qamid@qamid.ru",
+        "pass" : "qamid"
+        
+    },
+
+    {
+        "name":"sad",
+        "login" : "login@mail.ru",
+        "pass" : "pass"
+        
+    }
+]
+  
