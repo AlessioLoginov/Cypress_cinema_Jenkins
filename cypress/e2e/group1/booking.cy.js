@@ -1,5 +1,5 @@
-const selectors = require("../fixtures/selectors.json");
-const loginData = require('../fixtures/loginData.json');
+const selectors = require("../../fixtures/selectors.json");
+const loginData = require('../../fixtures/loginData.json');
 
 it("Should find a hall that sells tickets", () => {
 

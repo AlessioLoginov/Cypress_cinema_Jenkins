@@ -1,6 +1,6 @@
 describe('Login to admin panel - one happy and one sad path', () => {
-    const selectors = require("../fixtures/selectors.json");
-    const loginData = require('../fixtures/loginData.json');
+    const selectors = require("../../fixtures/selectors.json");
+    const loginData = require('../../fixtures/loginData.json');
 
     beforeEach(() => {
         cy.visit('/admin/');

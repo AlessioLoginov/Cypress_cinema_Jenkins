@@ -1,5 +1,5 @@
 describe('Verification of Main Page Elements', () => {
-    const selectors = require("../fixtures/selectors.json").__main_page__;
+    const selectors = require("../../fixtures/selectors.json").__main_page__;
     beforeEach(() => {
         cy.visit('/');
     });
